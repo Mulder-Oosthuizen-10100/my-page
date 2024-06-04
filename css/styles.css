@@ -1,0 +1,28 @@
+a:link {
+    color: #adb5bd;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+a:visited {
+    color: #adb5bd;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+a:hover {
+    color: #adb5bd;
+    background-color: transparent;
+    text-decoration: underline;
+}
+  
+a:active {
+    color: #adb5bd;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+
+.profile-image {
+    border-radius: 50%;
+}
